@@ -1,0 +1,10 @@
+Sample	adapter_content	Sequences flagged as poor quality	sequence_duplication_levels	avg_sequence_length	Encoding	per_base_sequence_quality	sequence_length_distribution	Sequence length	File type	basic_statistics	per_sequence_gc_content	Total Sequences	per_base_n_content	per_base_sequence_content	overrepresented_sequences	%GC	total_deduplicated_percentage	Filename	per_sequence_quality_scores
+SRR8068137.trimmed	pass	0.0	fail	59.6775238586	Sanger / Illumina 1.9	pass	warn	50-60	Conventional base calls	pass	pass	2690751.0	pass	fail	warn	51.0	15.6760023778	SRR8068137.trimmed.fastq	pass
+SRR8068138.trimmed	pass	0.0	fail	59.709718014	Sanger / Illumina 1.9	pass	warn	50-60	Conventional base calls	pass	warn	2204329.0	pass	fail	warn	51.0	16.0033217863	SRR8068138.trimmed.fastq	pass
+SRR8068139.trimmed	pass	0.0	fail	59.7609977912	Sanger / Illumina 1.9	pass	warn	50-60	Conventional base calls	pass	warn	2939613.0	pass	fail	warn	51.0	12.5521441087	SRR8068139.trimmed.fastq	pass
+SRR8068140.trimmed	pass	0.0	fail	59.8174250116	Sanger / Illumina 1.9	pass	warn	50-60	Conventional base calls	pass	warn	4423251.0	pass	fail	warn	50.0	9.47174069453	SRR8068140.trimmed.fastq	pass
+SRR8068141.trimmed	pass	0.0	fail	59.8161592415	Sanger / Illumina 1.9	pass	warn	50-60	Conventional base calls	pass	warn	3485473.0	pass	fail	warn	50.0	11.0998511688	SRR8068141.trimmed.fastq	pass
+SRR8068142.trimmed	pass	0.0	fail	59.7150549934	Sanger / Illumina 1.9	pass	warn	50-60	Conventional base calls	pass	pass	2557125.0	pass	fail	warn	51.0	14.2314689301	SRR8068142.trimmed.fastq	pass
+SRR8068144.trimmed	pass	0.0	fail	59.748507446	Sanger / Illumina 1.9	pass	warn	50-60	Conventional base calls	pass	warn	3172917.0	pass	fail	fail	50.0	12.5485533587	SRR8068144.trimmed.fastq	pass
+SRR8068147.trimmed	pass	0.0	fail	59.7047260643	Sanger / Illumina 1.9	pass	warn	50-60	Conventional base calls	pass	pass	2873850.0	pass	fail	warn	51.0	14.775907011	SRR8068147.trimmed.fastq	pass
+SRR8068148.trimmed	pass	0.0	fail	59.7377768575	Sanger / Illumina 1.9	pass	warn	50-60	Conventional base calls	pass	pass	2772139.0	pass	fail	warn	51.0	15.5157915931	SRR8068148.trimmed.fastq	pass

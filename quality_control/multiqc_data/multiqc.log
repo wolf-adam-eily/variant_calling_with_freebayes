@@ -1,0 +1,58 @@
+[2018-10-25 13:20:12,153] multiqc                                            [DEBUG  ]  No MultiQC config found: /isg/shared/apps/python/Python-2.7.8/lib/python2.7/site-packages/multiqc-1.1dev-py2.7.egg/multiqc_config.yaml
+[2018-10-25 13:20:12,154] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/CAM/aeily/.multiqc_config.yaml
+[2018-10-25 13:20:12,155] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2018-10-25 13:20:12,155] multiqc                                            [DEBUG  ]  Command used: /isg/shared/apps/MultiQC/1.1/bin/multiqc .
+[2018-10-25 13:20:12,155] multiqc                                            [DEBUG  ]  Could not connect to multiqc.info for version check
+[2018-10-25 13:20:12,155] multiqc                                            [INFO   ]  This is MultiQC v1.1dev
+[2018-10-25 13:20:12,157] multiqc                                            [DEBUG  ]  Command     : /isg/shared/apps/MultiQC/1.1/bin/multiqc .
+[2018-10-25 13:20:12,157] multiqc                                            [DEBUG  ]  Working dir : /home/CAM/aeily/variant_calling_rad_seq/quality_control
+[2018-10-25 13:20:12,157] multiqc                                            [INFO   ]  Template    : default
+[2018-10-25 13:20:12,160] multiqc                                            [INFO   ]  Searching '.'
+[2018-10-25 13:20:12,160] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, peddy, methylQA, qualimap, preseq, quast, rna_seqc, rseqc, busco, goleft_indexcov, snpeff, gatk, htseq, bcftools, featureCounts, picard, prokka, samblaster, samtools, bamtools, jellyfish, bismark, hicup, salmon, kallisto, slamdunk, star, tophat, bowtie2, bowtie1, adapterRemoval, cutadapt, trimmomatic, skewer, sortmerna, fastq_screen, fastqc, clusterflow
+[2018-10-25 13:20:12,194] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /home/CAM/aeily/tmp/tmpY6SUzl
+[2018-10-25 13:20:17,232] multiqc.modules.custom_content.custom_content      [DEBUG  ]  No custom content found
+[2018-10-25 13:20:17,255] multiqc.modules.peddy.peddy                        [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:17,285] multiqc.modules.methylQA.methylQA                  [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:17,343] multiqc.modules.qualimap.QM_BamQC                  [DEBUG  ]  Using default Qualimap thresholds: 1, 5, 10, 30, 50
+[2018-10-25 13:20:17,344] multiqc.modules.qualimap.qualimap                  [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:17,379] multiqc.modules.preseq.preseq                      [DEBUG  ]  Could not find any preseq data in ('.',)
+[2018-10-25 13:20:17,410] multiqc.modules.quast.quast                        [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:17,441] multiqc.modules.rna_seqc.rna_seqc                  [DEBUG  ]  Could not find any RNA-SeQC data in ('.',)
+[2018-10-25 13:20:17,667] multiqc.modules.rseqc.rseqc                        [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:17,693] multiqc.modules.busco.busco                        [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:17,728] multiqc.modules.goleft_indexcov.goleft_indexcov    [DEBUG  ]  Did not find goleft indexcov outputs in ('.',)
+[2018-10-25 13:20:17,754] multiqc.modules.snpeff.snpeff                      [DEBUG  ]  Could not find any data in ('.',)
+[2018-10-25 13:20:17,796] multiqc.modules.gatk.gatk                          [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:17,826] multiqc.modules.htseq.htseq                        [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:17,880] multiqc.modules.bcftools.bcftools                  [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:17,914] multiqc.modules.featureCounts.feature_counts       [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:18,159] multiqc.modules.picard.picard                      [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:18,185] multiqc.modules.prokka.prokka                      [DEBUG  ]  Could not find any Prokka data in ('.',)
+[2018-10-25 13:20:18,218] multiqc.modules.samblaster.samblaster              [DEBUG  ]  Could not find any data in ('.',)
+[2018-10-25 13:20:18,326] multiqc.modules.samtools.samtools                  [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:18,370] multiqc.modules.bamtools.bamtools                  [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:18,392] multiqc.modules.jellyfish.jellyfish                [DEBUG  ]  Could not find any data in ('.',)
+[2018-10-25 13:20:18,427] multiqc.modules.bismark.bismark                    [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:18,459] multiqc.modules.hicup.hicup                        [DEBUG  ]  Could not find any HiCUP data in ('.',)
+[2018-10-25 13:20:18,483] multiqc.modules.salmon.salmon                      [DEBUG  ]  Could not find any Salmon data in ('.',)
+[2018-10-25 13:20:18,506] multiqc.modules.kallisto.kallisto                  [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:18,549] multiqc.modules.slamdunk.slamdunk                  [DEBUG  ]  No slamdunk reports found.
+[2018-10-25 13:20:18,580] multiqc.modules.star.star                          [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:18,613] multiqc.modules.tophat.tophat                      [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:18,645] multiqc.modules.bowtie2.bowtie2                    [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:18,674] multiqc.modules.bowtie1.bowtie1                    [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:18,719] multiqc.modules.adapterRemoval.adapterRemoval      [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:18,746] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:18,786] multiqc.modules.trimmomatic.trimmomatic            [DEBUG  ]  Could not find any Trimmomatic data in ('.',)
+[2018-10-25 13:20:18,825] multiqc.modules.skewer.skewer                      [DEBUG  ]  Could not find any data in ('.',)
+[2018-10-25 13:20:18,854] multiqc.modules.sortmerna.sortmerna                [DEBUG  ]  Could not find any SortMeRNA data in ('.',)
+[2018-10-25 13:20:18,890] multiqc.modules.fastq_screen.fastq_screen          [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:19,140] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 9 reports
+[2018-10-25 13:20:20,420] multiqc.modules.clusterflow.clusterflow            [DEBUG  ]  Could not find any reports in ('.',)
+[2018-10-25 13:20:20,457] multiqc                                            [INFO   ]  Compressing plot data
+[2018-10-25 13:20:21,335] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2018-10-25 13:20:21,338] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2018-10-25 13:20:21,340] multiqc                                            [DEBUG  ]  Moving data file from '/home/CAM/aeily/tmp/tmpY6SUzl/multiqc_data/multiqc_fastqc.txt' to '/home/CAM/aeily/variant_calling_rad_seq/quality_control/multiqc_data'
+[2018-10-25 13:20:21,343] multiqc                                            [DEBUG  ]  Moving data file from '/home/CAM/aeily/tmp/tmpY6SUzl/multiqc_data/multiqc_sources.txt' to '/home/CAM/aeily/variant_calling_rad_seq/quality_control/multiqc_data'
+[2018-10-25 13:20:21,346] multiqc                                            [DEBUG  ]  Moving data file from '/home/CAM/aeily/tmp/tmpY6SUzl/multiqc_data/multiqc_general_stats.txt' to '/home/CAM/aeily/variant_calling_rad_seq/quality_control/multiqc_data'
+[2018-10-25 13:20:23,175] multiqc                                            [INFO   ]  MultiQC complete

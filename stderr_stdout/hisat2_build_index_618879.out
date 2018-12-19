@@ -1,0 +1,173 @@
+Building DifferenceCoverSample
+  Building sPrime
+  Building sPrimeOrder
+  V-Sorting samples
+  V-Sorting samples time: 00:00:00
+  Allocating rank array
+  Ranking v-sort output
+  Ranking v-sort output time: 00:00:00
+  Invoking Larsson-Sadakane on ranks
+  Invoking Larsson-Sadakane on ranks time: 00:00:00
+  Sanity-checking and returning
+Building samples
+Reserving space for 12 sample suffixes
+Generating random suffixes
+QSorting 12 sample offsets, eliminating duplicates
+QSorting sample offsets, eliminating duplicates time: 00:00:00
+Multikey QSorting 12 samples
+  (Using difference cover)
+  Multikey QSorting samples time: 00:00:00
+Calculating bucket sizes
+Splitting and merging
+  Splitting and merging time: 00:00:00
+Split 1, merged 6; iterating...
+Splitting and merging
+  Splitting and merging time: 00:00:00
+Split 1, merged 0; iterating...
+Splitting and merging
+  Splitting and merging time: 00:00:00
+Avg bucket size: 379240 (target: 568860)
+Getting block 1 of 8
+Getting block 3 of 8
+  Reserving size (568861) for bucket 3
+Getting block 2 of 8
+Getting block 4 of 8
+  Reserving size (568861) for bucket 4
+  Reserving size (568861) for bucket 1
+  Reserving size (568861) for bucket 2
+Getting block 5 of 8
+  Reserving size (568861) for bucket 5
+  Calculating Z arrays for bucket 3
+  Calculating Z arrays for bucket 1
+  Calculating Z arrays for bucket 5
+  Calculating Z arrays for bucket 4
+Getting block 6 of 8
+  Calculating Z arrays for bucket 2
+  Reserving size (568861) for bucket 6
+  Entering block accumulator loop for bucket 1:
+  Calculating Z arrays for bucket 6
+  Entering block accumulator loop for bucket 3:
+  Entering block accumulator loop for bucket 5:
+Getting block 7 of 8
+  Reserving size (568861) for bucket 7
+  Entering block accumulator loop for bucket 2:
+  Entering block accumulator loop for bucket 4:
+Getting block 8 of 8
+  Calculating Z arrays for bucket 7
+  Entering block accumulator loop for bucket 6:
+  Reserving size (568861) for bucket 8
+  Calculating Z arrays for bucket 8
+  Entering block accumulator loop for bucket 7:
+  Entering block accumulator loop for bucket 8:
+  bucket 8: 10%
+  bucket 1: 10%
+  bucket 3: 10%
+  bucket 8: 20%
+  bucket 5: 10%
+  bucket 7: 10%
+  bucket 2: 10%
+  bucket 6: 10%
+  bucket 1: 20%
+  bucket 8: 30%
+  bucket 4: 10%
+  bucket 3: 20%
+  bucket 1: 30%
+  bucket 8: 40%
+  bucket 5: 20%
+  bucket 7: 20%
+  bucket 2: 20%
+  bucket 8: 50%
+  bucket 1: 40%
+  bucket 6: 20%
+  bucket 3: 30%
+  bucket 5: 30%
+  bucket 4: 20%
+  bucket 8: 60%
+  bucket 7: 30%
+  bucket 1: 50%
+  bucket 2: 30%
+  bucket 8: 70%
+  bucket 3: 40%
+  bucket 1: 60%
+  bucket 6: 30%
+  bucket 5: 40%
+  bucket 8: 80%
+  bucket 7: 40%
+  bucket 1: 70%
+  bucket 4: 30%
+  bucket 3: 50%
+  bucket 8: 90%
+  bucket 2: 40%
+  bucket 5: 50%
+  bucket 1: 80%
+  bucket 7: 50%
+  bucket 6: 40%
+  bucket 8: 100%
+  Sorting block of length 156591 for bucket 8
+  (Using difference cover)
+  bucket 3: 60%
+  bucket 1: 90%
+  bucket 2: 50%
+  bucket 5: 60%
+  bucket 4: 40%
+  bucket 7: 60%
+  bucket 1: 100%
+  Sorting block of length 314411 for bucket 1
+  (Using difference cover)
+  bucket 3: 70%
+  bucket 6: 50%
+  bucket 2: 60%
+  bucket 5: 70%
+  bucket 7: 70%
+  bucket 3: 80%
+  bucket 4: 50%
+  bucket 2: 70%
+  bucket 6: 60%
+  bucket 5: 80%
+  bucket 3: 90%
+  bucket 7: 80%
+  Sorting block time: 00:00:00
+Returning block of 156592 for bucket 8
+  bucket 2: 80%
+  bucket 3: 100%
+  Sorting block of length 523926 for bucket 3
+  (Using difference cover)
+  bucket 4: 60%
+  bucket 5: 90%
+  bucket 6: 70%
+  bucket 2: 90%
+  bucket 7: 90%
+  bucket 5: 100%
+  Sorting block of length 420011 for bucket 5
+  (Using difference cover)
+  bucket 2: 100%
+  Sorting block of length 445114 for bucket 2
+  (Using difference cover)
+  bucket 4: 70%
+  bucket 7: 100%
+  Sorting block of length 442459 for bucket 7
+  (Using difference cover)
+  bucket 6: 80%
+  bucket 4: 80%
+  bucket 6: 90%
+  bucket 4: 90%
+  bucket 6: 100%
+  Sorting block of length 265983 for bucket 6
+  (Using difference cover)
+  bucket 4: 100%
+  Sorting block of length 465422 for bucket 4
+  (Using difference cover)
+  Sorting block time: 00:00:00
+Returning block of 314412 for bucket 1
+  Sorting block time: 00:00:00
+Returning block of 265984 for bucket 6
+  Sorting block time: 00:00:00
+Returning block of 420012 for bucket 5
+  Sorting block time: 00:00:00
+Returning block of 445115 for bucket 2
+  Sorting block time: 00:00:00
+Returning block of 442460 for bucket 7
+  Sorting block time: 00:00:00
+Returning block of 523927 for bucket 3
+  Sorting block time: 00:00:00
+Returning block of 465423 for bucket 4

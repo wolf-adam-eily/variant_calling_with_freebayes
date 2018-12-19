@@ -1,0 +1,63 @@
+
+SE input file: ../sample_files/SRR8068137.fastq
+
+Total FastQ records: 4010244
+FastQ records kept: 2690751
+FastQ records discarded: 1319493
+
+
+SE input file: ../sample_files/SRR8068138.fastq
+
+Total FastQ records: 3247484
+FastQ records kept: 2204329
+FastQ records discarded: 1043155
+
+
+SE input file: ../sample_files/SRR8068139.fastq
+
+Total FastQ records: 3960406
+FastQ records kept: 2939613
+FastQ records discarded: 1020793
+
+
+SE input file: ../sample_files/SRR8068140.fastq
+
+Total FastQ records: 5588845
+FastQ records kept: 4423251
+FastQ records discarded: 1165594
+
+
+SE input file: ../sample_files/SRR8068141.fastq
+
+Total FastQ records: 4350992
+FastQ records kept: 3485473
+FastQ records discarded: 865519
+
+
+SE input file: ../sample_files/SRR8068142.fastq
+
+Total FastQ records: 3591016
+FastQ records kept: 2557125
+FastQ records discarded: 1033891
+
+
+SE input file: ../sample_files/SRR8068144.fastq
+
+Total FastQ records: 4433402
+FastQ records kept: 3172917
+FastQ records discarded: 1260485
+
+
+SE input file: ../sample_files/SRR8068147.fastq
+
+Total FastQ records: 4233717
+FastQ records kept: 2873850
+FastQ records discarded: 1359867
+
+
+SE input file: ../sample_files/SRR8068148.fastq
+
+Total FastQ records: 4006652
+FastQ records kept: 2772139
+FastQ records discarded: 1234513
+

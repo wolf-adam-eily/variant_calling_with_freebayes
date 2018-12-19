@@ -1,0 +1,10 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR8068144.trimmed	/home/CAM/aeily/variant_calling_rad_seq/quality_control/SRR8068144.trimmed_fastqc.zip
+FastQC	all_sections	SRR8068147.trimmed	/home/CAM/aeily/variant_calling_rad_seq/quality_control/SRR8068147.trimmed_fastqc.zip
+FastQC	all_sections	SRR8068148.trimmed	/home/CAM/aeily/variant_calling_rad_seq/quality_control/SRR8068148.trimmed_fastqc.zip
+FastQC	all_sections	SRR8068137.trimmed	/home/CAM/aeily/variant_calling_rad_seq/quality_control/SRR8068137.trimmed_fastqc.zip
+FastQC	all_sections	SRR8068140.trimmed	/home/CAM/aeily/variant_calling_rad_seq/quality_control/SRR8068140.trimmed_fastqc.zip
+FastQC	all_sections	SRR8068141.trimmed	/home/CAM/aeily/variant_calling_rad_seq/quality_control/SRR8068141.trimmed_fastqc.zip
+FastQC	all_sections	SRR8068139.trimmed	/home/CAM/aeily/variant_calling_rad_seq/quality_control/SRR8068139.trimmed_fastqc.zip
+FastQC	all_sections	SRR8068138.trimmed	/home/CAM/aeily/variant_calling_rad_seq/quality_control/SRR8068138.trimmed_fastqc.zip
+FastQC	all_sections	SRR8068142.trimmed	/home/CAM/aeily/variant_calling_rad_seq/quality_control/SRR8068142.trimmed_fastqc.zip

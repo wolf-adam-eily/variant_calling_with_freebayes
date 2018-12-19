@@ -1,0 +1,10 @@
+../alignments/SRR8068137.trimmed.bam
+../alignments/SRR8068139.trimmed.bam
+../alignments/SRR8068141.trimmed.bam
+../alignments/SRR8068144.trimmed.bam
+../alignments/SRR8068148.trimmed.bam
+../alignments/SRR8068138.trimmed.bam
+../alignments/SRR8068140.trimmed.bam
+../alignments/SRR8068142.trimmed.bam
+../alignments/SRR8068147.trimmed.bam
+
